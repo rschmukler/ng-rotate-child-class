@@ -40,15 +40,15 @@ var app = angular.module('myApp, ['ngRotateChildClass']);
 ## Available directive Options
 
 
-#### rotate-child-class <class>
+#### rotate-child-class (class)
 
 The class name to rotate
 
 
-#### rotate-every <interval>
+#### rotate-every (interval)
 
 How often to switch the classes. This should be a `Number` of milliseconds.
 
-#### dont-rotate-if <boolean>
+#### dont-rotate-if (boolean)
 
-Pause rotation if certain thing is happening.
+Pause rotation if `boolean` is truthy
