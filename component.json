@@ -1,0 +1,11 @@
+{
+  "name": "ng-rotate-child-class",
+  "version": "0.1.0",
+  "repo": "rschmukler/ng-rotate-child-class",
+  "description": "Angular directive for rotating a class on child elements",
+  "author": "Ryan Schmukler <ryan@slingingcode.com>",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
